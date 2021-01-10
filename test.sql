@@ -37,7 +37,7 @@ CREATE TABLE `berita` (
 --
 -- Dumping data for table `berita`
 --
-
+INSERT INTO `berita`(`idPenulis`, `namaPenulis`, `isiBerita`, `tanggalTerbit`) VALUES (1,'hizrawan dwi oka','Suatu sore yang terik pada pertengahan Februari 2019, sejumlah remaja naik ke atas kapal layar motor Sinar Keluarga yang bersandar di Pelabuhan Sunda Kelapa, Jakarta Utara. Sesampainya di anjong (segitiga penyeimbang) yang berada di bagian depan kapal, mereka bergantian melompat. Byur, byur, prakk suara tubuh bertemu dengan air laut, susul menyusul. Sementara buruh bongkar muat di sebelahnya terus bekerja, mengangkut muatan, memindahkan barang dari truk ke kapal.','2020-01-01');
 --
 -- Indexes for dumped tables
 --
